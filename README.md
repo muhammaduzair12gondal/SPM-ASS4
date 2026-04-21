@@ -39,3 +39,4 @@ This project was developed following strict process rigor.
 **Task Management:** All work was tracked via Jira.
 **Version Control:** Managed via GitHub using a strict GitFlow branching strategy (no direct commits to `main`).
 **Code Reviews:** All code was merged through Pull Requests and reviewed before merging.
+
