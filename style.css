@@ -517,3 +517,10 @@ body {
         text-align: center;
     }
 }
+
+/* Bugfix SA4-7 */
+.btn-submit:hover {
+    background-color: var(--primary-hover);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 6px rgba(79, 70, 229, 0.4);
+}
